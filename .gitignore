@@ -1,0 +1,10 @@
+node_modules/
+.cache
+npm-debug.log
+.DS_Store
+.vscode
+run.sh
+routes
+controllers
+
+Note: This implementation adds some common files and directories that are typically ignored in a Node.js project, including the `.DS_Store` file, `.vscode` directory, and the `run.sh` file. It also ignores the `routes` and `controllers` directories, which are part of the project's internal implementation and should not be tracked by version control.
